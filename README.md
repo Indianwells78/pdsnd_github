@@ -1,17 +1,6 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+https://www.geeksforgeeks.org/taking-input-in-python/?ref=lbp
+https://www.geeksforgeeks.org/python-pandas-dataframe/
+https://www.geeksforgeeks.org/python-while-loop/
+https://www.geeksforgeeks.org/python-for-loops/?ref=lbp
 
-### Date created
-Include the date you created this project and README file.
-
-### Project Title
-Replace the Project Title
-
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+i primarily reviewed geeksforgeeks site, but there were others i forgot to write down as helpers too along the way. they were basically reinforcing what was shown in the links above along with the udacity material.  
