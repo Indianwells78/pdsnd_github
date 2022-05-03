@@ -8,3 +8,5 @@ i primarily reviewed geeksforgeeks site, but there were others i forgot to write
 # More changes needed for Section III
 
 These are just some additional changes. 
+#Section IV Refactor Code
+This is just additional comments needed for a commit and push
